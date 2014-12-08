@@ -1,3 +1,4 @@
+add_lunch_combo pa_hallon-userdebug
 add_lunch_combo pa_amami-userdebug
 add_lunch_combo pa_aries-userdebug
 add_lunch_combo pa_bacon-userdebug
